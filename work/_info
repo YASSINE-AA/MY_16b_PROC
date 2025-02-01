@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/yassine-ahmed-ali/Desktop
+Ealu
+Z1 w1738413772
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z4 d/home/yassine-ahmed-ali/Desktop/ALU
+Z5 8/home/yassine-ahmed-ali/Desktop/ALU/ALU.vhd
+Z6 F/home/yassine-ahmed-ali/Desktop/ALU/ALU.vhd
+l0
+L4 1
+VEfGUSbFKXf;818Kg5>a>91
+!s100 OeJl59G8HGKN0Xz2:P;571
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1738414699
+!i10b 1
+Z9 !s108 1738414699.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/yassine-ahmed-ali/Desktop/ALU/ALU.vhd|
+Z11 !s107 /home/yassine-ahmed-ali/Desktop/ALU/ALU.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+DEx4 work 3 alu 0 22 EfGUSbFKXf;818Kg5>a>91
+!i122 2
+l28
+L13 40
+Vh=;:PUjF0V<lYd0Y_SPd?1
+!s100 hNHYLgXD99Ri][@XX6V]K2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_alu
+Z14 w1738413761
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+!i122 3
+R4
+Z17 8/home/yassine-ahmed-ali/Desktop/ALU/tb_ALU.vhd
+Z18 F/home/yassine-ahmed-ali/Desktop/ALU/tb_ALU.vhd
+l0
+L5 1
+V7J@B7kCIJYNM<;Y:i_U>l3
+!s100 BJ8@Am0P];P_BIlWgYmE@3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/yassine-ahmed-ali/Desktop/ALU/tb_ALU.vhd|
+!s107 /home/yassine-ahmed-ali/Desktop/ALU/tb_ALU.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R15
+R16
+R2
+R3
+DEx4 work 6 tb_alu 0 22 7J@B7kCIJYNM<;Y:i_U>l3
+!i122 3
+l29
+L8 46
+Vl;<n@S>ZEFb_?l5U1zBa30
+!s100 0PZWCh[l9HkOe><X<jgf32
+R7
+32
+R8
+!i10b 1
+R9
+R19
+Z20 !s107 /home/yassine-ahmed-ali/Desktop/ALU/tb_ALU.vhd|
+!i113 1
+R12
+R13
